@@ -1,4 +1,4 @@
 # Build settings
-baseurl: "my-site/"
+baseurl: "/my-site/"
 
 # in github copy the url of your site and put in the quotes above
