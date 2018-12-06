@@ -2,12 +2,12 @@
 ---
 
 body,html {
-    background-color: rgb(10, 105, 124);
-    font-family: 'Roboto', sans-serif;
+background-color: rgb(10, 105, 124);
+font-family: 'Roboto', sans-serif;
 }
 
 h1,h2,h3,h4,h5,h6 {
-    font-family: 'Roboto Condensed', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
 }
 
 i{
@@ -15,37 +15,37 @@ font-size: 60px;
 }
 
 img {
-    display: block;
-    margin: 0 auto;
-    border: 5px solid white;
-    border-radius: 300px
+display: block;
+margin: 0 auto;
+border: 5px solid white;
+border-radius: 300px
 }
 
 figcaption {
-    text-align: center;
-    margin: 10px auto;
+text-align: center;
+margin: 10px auto;
 }
 
 ul {
-    text-align: center;
-    width: 440px;
+text-align: center;
+width: 440px;
 }
 
 ul > li {
-    display: inline-block;
-    margin: 0 10px 0 10px;
-    width: 100px;
+display: inline-block;
+margin: 0 10px 0 10px;
+width: 100px;
 }
 
 p {
-    color: white
+color: white
 }
 
 .white-copy{
-    color: white;
+color: white;
 }
 
 #content-wrapper{
-    width: 600px;
-    margin: 0 auto;
+width: 600px;
+margin: 0 auto;
 }
